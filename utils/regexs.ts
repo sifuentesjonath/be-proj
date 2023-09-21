@@ -1,0 +1,1 @@
+export const only_numbers_regex = /^[0-9\b]+$/;
